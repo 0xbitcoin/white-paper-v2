@@ -48,7 +48,7 @@ As an ERC20 token, 0xBTC uses a traditional Ethereum account. These accounts are
 ### Comparison to Synthetics
 As a new re-genesis, 0xBTC does not have the liquidity or the original chain-data of 'Bitcoin'.  However, this allows 0xBTC to be trust-minimized and to have the properties of 'Bitcoin' as an unstoppable, immutable, decentralized pure-mined cryptocurrency which is free from Oracles, external Consensus, and centralized keys.  
 
-Since 2018, several 'Bitcoin Synthetics' have been deployed to the Ethereum EVM such as wBTC, tBTC, and renBTC.  These currencies sacrifice the trustless and immutable nature of native Bitcoin in order to import the price and liquidity of Bitcoin into the Ethereum EVM.  We are concerned because these synethetics all increase trust-based risk and introduce new centralized attack vectors in different ways, thus putting holders funds in jeopardy as compared to the users holding native Bitcoin or native 0xBTC.
+Since 2018, several 'Bitcoin Synthetics' have been deployed to the Ethereum EVM such as wBTC, tBTC, and renBTC.  These currencies sacrifice the trustless and immutable nature of native Bitcoin in order to import the price and liquidity of Bitcoin into the Ethereum EVM.  We are concerned because these synthetics all increase trust-based risk and introduce new centralized attack vectors in different ways to put holders funds in jeopardy as compared to the users holding native Bitcoin or native 0xBTC.
 
 
 #### WBTC 
