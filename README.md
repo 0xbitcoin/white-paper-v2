@@ -21,7 +21,7 @@
 -------------------------------
 
 ### Abstract
-The paper describes the pure mined BEP20 token BNbitcoin (BNBTC) available on Binance Smart Chain.  
+The paper describes the first pure mined BEP20 token BNbitcoin (BNBTC) available on Binance Smart Chain.  
 This EVM-based cryptocurrency derives from the MIT-licensed 0xBitcoin smart contract on the Ethereum blockchain, with some adaptations described in detail in this whitepaper.  
 It was deployed to the Binance Smart Chain using the Solidity language and it is designed to be trust-minimized and verifiably credibly-neutral by borrowing from the ideals of the original Bitcoin White paper (Satoshi Nakamoto, 2009).  
 'Trust-minimized' in this context means that the holders of BNBTC are exposed to absolutely as little human-decision-based risk as possible.  
